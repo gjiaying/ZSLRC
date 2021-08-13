@@ -1,3 +1,5 @@
+Dataset is available at: https://drive.google.com/drive/folders/1qHSKdJCX7Tt4kayObQVspY6L98dKZlEC?usp=sharing
+
 basetrain.txt -Training set
 testpoolSI.txt -Seen relations pool
 valpoolSI.txt - Seen relations pool
