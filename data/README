@@ -1,9 +1,14 @@
 Dataset is available at: https://drive.google.com/drive/folders/1qHSKdJCX7Tt4kayObQVspY6L98dKZlEC?usp=sharing
 
+GloVe Embedding:
+glove.6B.50d.txt
+glove.6B.50d.word2vec.txt
+
 For NYT dataset:
 basetrain.txt -Training set
 testpoolSI.txt -Seen relations pool
 valpoolSI.txt - Seen relations pool
 zeroshotSI.txt - Unseen relations pool
+featureset.txt - Side Information
 
 Please follow zs_tdataset_generation.py to randomly generate any percentage of unseen relations for validation set or testing set and prepare your own testing set.
