@@ -10,5 +10,8 @@ testpoolSI.txt -Seen relations pool
 valpoolSI.txt - Seen relations pool
 zeroshotSI.txt - Unseen relations pool
 featureset.txt - Side Information
+nyt10_train - Baseline Train
+nyt10_val - Baseline Val
+nyt10_test - Baseline Test
 
 Please follow zs_tdataset_generation.py to randomly generate any percentage of unseen relations for validation set or testing set and prepare your own testing set.
